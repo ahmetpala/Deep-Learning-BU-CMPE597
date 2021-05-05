@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
 
 # Network Class
 import numpy as np
@@ -193,7 +188,7 @@ def back_propogation(a1, h1, a2, h2, a3, h3, y_hat, x_ar, y_ar, n, reg_lambda, W
 # In[ ]:
 
 
-# In[1]:
+# Main.py
 
 
 import numpy as np
